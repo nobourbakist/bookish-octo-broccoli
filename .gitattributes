@@ -1,1 +1,2 @@
 passwords.txt text eol=lf filter=Pw1Clean
+testdir/morepasswd.txt text eol=lf filter=Pw1Clean
