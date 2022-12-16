@@ -7,8 +7,8 @@ invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero
 eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no
 sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-Again-
-And this is the password: ***REMOVED***
+Again.
+And this is the password: _hiddenpassword01_
 
 Some more gibberish.
 And another commit.
